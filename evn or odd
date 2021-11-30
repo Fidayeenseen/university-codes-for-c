@@ -5,7 +5,8 @@ main()
 	printf("enter a no : ");
 	scanf("%d",&d);
 	if(d%2==0)
-	{printf("its even");
+	{
+		printf("its even");
 	}
 else 
 {
